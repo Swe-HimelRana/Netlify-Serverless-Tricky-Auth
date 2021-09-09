@@ -1,0 +1,16 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "middy": "^0.36.0",
+    "netlify-cli": "^6.8.11"
+  }
+}
